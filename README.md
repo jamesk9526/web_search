@@ -1,4 +1,7 @@
 No longer maintained. I no longer have GPU to run language models, someone else should fork and continue development.
+
+As a hobbyist i would love to take this project and keep up the work, but im very new to this type of thing, but how else can we become smarter every day.
+
 # web_search
  Web search extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
